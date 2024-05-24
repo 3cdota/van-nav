@@ -9,6 +9,8 @@ nav.db
 node_modules
 build
 dist
+.history
+.exe
 .umi
 .vscode
 draft.md

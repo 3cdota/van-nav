@@ -33,7 +33,8 @@ docker run -d --name tools --restart always -p 6412:6412 -v /path/to/your/data:/
 - 默认端口 6412
 - 默认账号密码 admin admin ，第一次运行后请进入后台修改
 - 数据库会自动创建在当前文件夹中： `nav.db`
-
+### 生成exe
+运行命令`./build.sh` 生成可执行文件。
 
 ### 可执行文件
 
